@@ -6,7 +6,7 @@ words = ""
 print("Welcome to Key logger Programm \n")
 print("Enter 1 - To start the program.")
 print("Enter 2- To exit.")
-print("To stop the programm Press *")
+
 # Function to print every key after a time interval
 def keylogger():
         print("Running......")
