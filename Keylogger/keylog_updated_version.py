@@ -3,8 +3,8 @@ import pynput.keyboard
 import threading
 import sys 
 words = ""
-print("Welcome to Key logger Programm \n")
-print("Enter 1 - To start the program.")
+print("Welcome to Keylogger")
+print("Enter 1 - To start the Program.")
 print("Enter 2- To exit.")
 
 # Function to print every key after a time interval
